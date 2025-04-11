@@ -13,7 +13,7 @@ My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Study Analyst k
   
 
 
-- **👨🏻‍💻 I’m currently working as Study Analyst;**
+**👨🏻‍💻 I’m currently working as Study Analyst;**
 
 
 </br>
