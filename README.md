@@ -7,7 +7,7 @@
 
 ### I'm delighted you're here!
 
-My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Study Analyst known for my simplicity and strong work ethic. My analytical mindset and attention to detail contribute significantly to my research work. With a passion for learning and innovation, I consistently strives to make meaningful contributions in my field. My approachable nature and commitment to excellence make me a valuable asset to any team.
+My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Data Analyst known for my simplicity and strong work ethic. My analytical mindset and attention to detail contribute significantly to my research work. With a passion for learning and innovation, I consistently strives to make meaningful contributions in my field. My approachable nature and commitment to excellence make me a valuable asset to any team.
 
   
 
