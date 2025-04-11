@@ -25,5 +25,35 @@ My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Study Analyst k
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish-Data-Analyst&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Data-Analyst&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
+  </a>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Power Query" width="40" height="40"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" alt="Statistics" width="40" height="40"/>
+  </a>
+  
+</p>
+
+ **Python,**
+ **Excel,**
+ **Power BI,**
+ **Power Query,**
+ **Statistics**
+<p>
