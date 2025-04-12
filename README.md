@@ -9,7 +9,7 @@
 
 My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Data Analyst known for my simplicity and strong work ethic. My analytical mindset and attention to detail contribute significantly to my research work. With a passion for learning and innovation, I consistently strives to make meaningful contributions in my field. My approachable nature and commitment to excellence make me a valuable asset to any team.
 
-  
+<img align="right" alt="GIF" src="https://github.com/Manish-Data-Analyst/Manish-Data-Analyst/blob/d7c4ea1015dddf8da1eccfc56c26838a28e7cb4d/Manish_page-0001.jpg" width="400" height="225" />  
 
 
 **👨🏻‍💻 I’m currently working as Study Analyst**
