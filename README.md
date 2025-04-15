@@ -48,12 +48,14 @@ My name is 𝗠𝗮𝗻𝗶𝘀𝗵. I am a humble and dedicated Data Analyst kn
   <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" alt="Statistics" width="40" height="40"/>
   </a>
-  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
 </p>
 
  **Python,**
  **Excel,**
  **Power BI,**
  **Power Query,**
- **Statistics**
+ **Statistics,**
+ **SQL**
 <p>
